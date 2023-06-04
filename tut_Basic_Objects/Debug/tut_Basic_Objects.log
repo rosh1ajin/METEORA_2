@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(222,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(244,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(247,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(251,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(255,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(256,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(260,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(268,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(272,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(281,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(282,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(286,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(287,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(291,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(292,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(296,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(297,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(300,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(301,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(304,2): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(305,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(306,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(309,2): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(310,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(311,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(314,2): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(315,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(316,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  tut_Basic_Objects.vcxproj -> C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\Debug\tut_Basic_Objects.exe
